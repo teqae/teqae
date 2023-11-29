@@ -42,7 +42,7 @@
 
 - 🏠 **Siéntete como en casa; la programación no es algo difícil de aprender, depende de cómo TÚ lo abordes. Si te gusta, ¡excelente! Si no, sigue otro camino diferente. With 14 years old, you can make magic with your own hands. Bilingual person**
 **――――――――――――――――――――――――――――――――――――――――――――――――――――――――――**
-- 💞 **¿El amor puede ayudar en la programación?                                                                                                                 ..............💖**
+- 💞 **¿El amor puede ayudar en la programación?                                                                                                                 .............. YES💖**
   · 👀 **EL AMOR, qué palabra más bonita y cortante, puede actuar como un poderoso motor motivacional. Aquí tienes algunas razones por las cuales el amor puede ayudarte a motivarte en diversas áreas:**
          **Pasión y compromiso: Cuando amas algo, ya sea una actividad, un proyecto o una meta, sientes una conexión emocional y una pasión profunda por ello. Esta pasión te impulsa a comprometerte y dedicarte más, lo que aumenta tu motivación intrínseca para 
          lograr tus objetivos.**
