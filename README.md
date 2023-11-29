@@ -59,7 +59,7 @@
 
 - 💗 **Conexión con otros: El amor puede fortalecer tus relaciones y conexiones con otras personas. La motivación puede provenir del deseo de contribuir positivamente a la vida de quienes amas, lo que te impulsa a esforzarte más.**
 
-   - 💘 En resumen, el amor proporciona una fuente profunda de motivación intrínseca, alimentada por la pasión, el compromiso, el propósito y la satisfacción personal, lo que puede influir positivamente en tu enfoque, rendimiento y logros en diversas áreas de la vida. Dedicado para una persona D 💕 <3
+   - 💘 En resumen, el amor proporciona una fuente profunda de motivación intrínseca, alimentada por la pasión, el compromiso, el propósito y la satisfacción personal, lo que puede influir positivamente en tu enfoque, rendimiento y logros en diversas áreas de la vida. Dedicado para una persona with all my heart D 💕 <3
  <p align="center">
   <img src="https://cdn.discordapp.com/attachments/1167594085029269514/1179219856030187550/D.png?ex=6578fd12&is=65668812&hm=4ad1fd8dabf69b1697d46d98b6301a9a602e23c9f5950021b2968e2f424f591c&" height="500"/>
 </p>
