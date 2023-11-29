@@ -45,7 +45,8 @@
 - 💞 **¿El amor puede ayudar en la programación?                                                                                                                 .............. YES💖**
   
   · 👀 **EL AMOR, qué palabra más bonita y cortante, puede actuar como un poderoso motor motivacional. Aquí tienes algunas razones por las cuales el amor puede ayudarte a motivarte en diversas áreas:**
-         **Pasión y compromiso: Cuando amas algo, ya sea una actividad, un proyecto o una meta, sientes una conexión emocional y una pasión profunda por ello. Esta pasión te impulsa a comprometerte y dedicarte más, lo que aumenta tu motivación intrínseca para 
+         
+- 🌱 **Pasión y compromiso: Cuando amas algo, ya sea una actividad, un proyecto o una meta, sientes una conexión emocional y una pasión profunda por ello. Esta pasión te impulsa a comprometerte y dedicarte más, lo que aumenta tu motivación intrínseca para 
          lograr tus objetivos.**
 
 - 💞 **Sentido de propósito: El amor por algo te proporciona un sentido de propósito y significado. Cuando te apasiona algo, tienes claridad sobre por qué estás haciendo lo que haces. Esa conexión emocional te motiva a trabajar con un propósito más profundo.**
