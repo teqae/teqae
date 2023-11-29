@@ -1,4 +1,4 @@
-<!--horizontal divider(gradiant)-->
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!--h1 without bottom border-->
@@ -41,6 +41,26 @@
 - 📫 **Paso a paso: A medida que te familiarizas con los conceptos y practicas la programación regularmente, la comprensión y la resolución de problemas se vuelven más intuitivas.**
 
 - 🏠 **Siéntete como en casa; la programación no es algo difícil de aprender, depende de cómo TÚ lo abordes. Si te gusta, ¡excelente! Si no, sigue otro camino diferente. With 14 years old, you can make magic with your own hands. Bilingual person**
+**――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――**
+- 💞 **¿El amor puede ayudar en la programación?                                                                                                                 ..............💖**
+  · 👀 **EL AMOR, qué palabra más bonita y cortante, puede actuar como un poderoso motor motivacional. Aquí tienes algunas razones por las cuales el amor puede ayudarte a motivarte en diversas áreas:**
+         **Pasión y compromiso: Cuando amas algo, ya sea una actividad, un proyecto o una meta, sientes una conexión emocional y una pasión profunda por ello. Esta pasión te impulsa a comprometerte y dedicarte más, lo que aumenta tu motivación intrínseca para 
+         lograr tus objetivos.**
+
+- 💞 **Sentido de propósito: El amor por algo te proporciona un sentido de propósito y significado. Cuando te apasiona algo, tienes claridad sobre por qué estás haciendo lo que haces. Esa conexión emocional te motiva a trabajar con un propósito más profundo.**
+
+- ❤️ **Resiliencia ante desafíos: El amor te da fuerza y resistencia para superar obstáculos y desafíos. La pasión te ayuda a mantener el rumbo cuando te encuentras con dificultades, ya que estás más dispuesto a esforzarte y persistir para superar esos obstáculos.**
+
+- 💓 **Plenitud y satisfacción: El amor proporciona una sensación de satisfacción y plenitud. El logro de metas o la realización de actividades que amas te brinda una sensación de gratificación personal y felicidad, lo que refuerza tu motivación para seguir adelante.**
+
+- 💖 **Creatividad y rendimiento: La pasión y el amor pueden aumentar tu creatividad y desempeño. Cuando amas lo que haces, estás más inclinado a explorar nuevas ideas, enfoques innovadores y soluciones creativas, lo que puede mejorar tu rendimiento.**
+
+- 💗 **Conexión con otros: El amor puede fortalecer tus relaciones y conexiones con otras personas. La motivación puede provenir del deseo de contribuir positivamente a la vida de quienes amas, lo que te impulsa a esforzarte más.**
+
+   - 💘 En resumen, el amor proporciona una fuente profunda de motivación intrínseca, alimentada por la pasión, el compromiso, el propósito y la satisfacción personal, lo que puede influir positivamente en tu enfoque, rendimiento y logros en diversas áreas de la vida. Dedicado para una persona D 💕 <3
+ <p align="center">
+  <img src="https://cdn.discordapp.com/attachments/1167594085029269514/1179219856030187550/D.png?ex=6578fd12&is=65668812&hm=4ad1fd8dabf69b1697d46d98b6301a9a602e23c9f5950021b2968e2f424f591c&" height="500"/>
+</p>
 <!--Intro end-->
 ### ⚙️ &nbsp;GitHub Analytics
 
